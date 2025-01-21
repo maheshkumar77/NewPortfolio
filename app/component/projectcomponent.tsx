@@ -37,7 +37,7 @@ export function ThreeDCardDemo() {
   <div className="text-[10px] text-white float-start">
     Use Technology:-
     {item.technology.map((i, it) => (
-      <span key={it}>
+      <span key={it} className=" text-blue-700 ">
         {i}
         {it < item.technology.length - 1 && ', '}
       </span>

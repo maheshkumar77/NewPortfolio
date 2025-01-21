@@ -8,25 +8,27 @@ export const projectdata = [
      private rooms, and a responsive design for seamless communication.`,
     projectlink: "https://github.com/maheshkumar77/Real--time-Chat-Application.git",
     projectimg:"https://maheshkumar77.github.io/Portfolio_Use_Nextjs/project1.jpg",
-    technology: ["Reactjs", "Tailwindcss", "Nodejs", "ExpressJs", "Mongodb"],
+    technology: ["Reactjs", "Tailwindcss","Javascript", "Nodejs", "ExpressJs", "Mongodb"],
     
   },
   {
     id: 2,
     projectname: "eCommerce Website",
     
-    projectdesc:`An eCommerce website allows businesses to sell products online with features like product catalogs, secure payments, and order tracking.
-     It offers 24/7 shopping convenience, expanded market reach, and improved customer engagement.`,
+    projectdesc:`This eCommerce website is built using React, Material UI, 
+    and Bootstrap for a responsive and user-friendly interface, with Razorpay integration for secure payments.
+     The backend is powered by Node.js, and data is efficiently stored in 
+    MongoDB for seamless management.`,
     projectlink: "https://ecoshophear.netlify.app/",
     projectimg:"https://maheshkumar77.github.io/Portfolio_Use_Nextjs/ecomerce.jpg",
-    technology: ["Reactjs", "Tailwindcss", "Nodejs", "ExpressJs", "Mongodb","RestApi","Razorpay Payment Gateway"],
+    technology: ["Reactjs","Javascript",  "Tailwindcss", "Nodejs", "ExpressJs", "Mongodb","RestApi","Razorpay Payment Gateway"],
   },
   {
     id: 3,
     projectname: "Recipi Application",
     
-    projectdesc:`A recipe application lets users browse, save, and share recipes with features like search filters and meal planning. It offers personalized recommendations,
-     making meal prep easier, discovering new dishes, and maintaining a healthy kitchen routine.`,
+    projectdesc:`The Recipe Application utilizes REST API calls to fetch data, with a responsive frontend built using React, TypeScript, and Tailwind CSS. It features a search bar to 
+    find food recipes and provides detailed recipe instructions along with YouTube video links.`,
     projectlink: "https://github.com/maheshkumar77/Food-Recipe-Application",
     projectimg:"https://maheshkumar77.github.io/Portfolio_Use_Nextjs/recipi.jpg",
     technology: ["Reactjs", "Tailwindcss","RestApi","Typescript"],
